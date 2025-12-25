@@ -11,4 +11,9 @@ To run the project
 ```bash
 streamlit run streamlit_app.py
 ```
+```Contributors
 snehal
+```
+
+
+
