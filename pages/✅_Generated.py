@@ -2,7 +2,7 @@ import streamlit as st
 import tempfile
 from gtts import gTTS
 from database import *
-#
+
 c1, c2 = st.columns(2)
 
 if 'data' not in st.session_state:
